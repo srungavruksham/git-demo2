@@ -1,1 +1,2 @@
 "This is FileA -version1-feature branch-3-way-merge" 
+git stash
